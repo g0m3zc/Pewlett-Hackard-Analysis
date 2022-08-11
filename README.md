@@ -14,6 +14,7 @@ The 2 roles that will need to be filled to make an impact included Senior Engein
 ![Roles to be filled](https://user-images.githubusercontent.com/106936638/184076364-70ad03af-5eb0-474f-a52c-f1f4f4dc26dc.PNG)
 
 There are qualified employees that are available to mentor the next generation of employees, although new employees will be needed to filled the positions to make up the difference.  There are less Senior Engineers eligible for the mentorship program, so special attention may be needed to recruit them at a higher rate.
+
 ![Eligible](https://user-images.githubusercontent.com/106936638/184076864-05ae794f-aff8-4ef2-bbb2-8c9260f6dae8.PNG)
 
 The department that will need the most roles (Senior Engineers and Senior Staff) filled is d007, Sales.
